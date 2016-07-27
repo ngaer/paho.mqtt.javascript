@@ -1,6 +1,9 @@
 {
 	"name": "paho-client",
 	"description": "Pre reqs for the Paho JS client",
+	"version": "1.0.2",
+	"repository": "ngaer/paho.mqtt.javascript",
+	"main": "src/mqttws31.js",
 	"dependencies": {
 		"websocket": "1.x.x",
 		"node-localstorage": "0.x.x",
